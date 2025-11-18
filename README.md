@@ -1,6 +1,8 @@
 #  Evaluating & Analyzing LLM Jailbreak Defenses  
 *A practical exploration of AI safety, alignment, and defense techniques in modern instruction-tuned models*
 
+Summary: This project was a dive into AI safety focussing on Jailbreaks, looking at how instruction-tuned LLMs break, why they break, and what actually works to keep them aligned under pressure. Using Qwen2.5 as the base model, I recreated both manual and automated jailbreak attacks (including GCG and AutoDAN) to stress-test the model in realistic ways. From there, I built and evaluated a set of layered defenses: prompt-level techniques like self-reminders, model-level filters, guard-model architectures, and statistical detectors such as perplexity filters.
+
 ---
 
 ###  What this project is really about
