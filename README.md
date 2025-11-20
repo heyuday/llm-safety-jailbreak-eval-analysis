@@ -143,7 +143,7 @@ It’s part educational, part experimental, and fully motivated by one idea:
 ##  Author
 
 **Uday Tyagi**  
- University of Wisconsin–Madison → Cornell M.Eng.  
+ University of Wisconsin–Madison → Cornell M.Eng CS.  
  WAISI Technical Scholar, Fundamentals Cohort Lead  
  Machine Learning & Software Engineer @ KLA  
  Exploring empirical AI safety through alignment, interpretability, and scalable oversight.
