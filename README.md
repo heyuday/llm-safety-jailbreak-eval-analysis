@@ -121,9 +121,6 @@ Because safety research without measurement is just storytelling.
 
 ---
 
-## 🎯 Why This Matters
-Alignment doesn’t fail when an AI gives a wrong answer — it fails when the system **follows instructions too well** in the wrong direction.  
-
 By simulating jailbreaks and defenses, this project explores the space where **capabilities and control collide**.  
 It’s part educational, part experimental, and fully motivated by one idea:  
 > “Safety is not a switch. It’s an ecosystem.”
